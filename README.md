@@ -1,4 +1,4 @@
-# The-Maze-Game
+# The Maze Game
 
 Bahcesehir University 2017 - 2018 CMP1001 Introduction to Programming (C++) Term Project
 
@@ -25,6 +25,8 @@ You are expected to design the game by using C++. Below are the minimal criteria
 
 • You  must  use functions  for  drawing  game  board  and  changing car type. If  you  need  extra functions, you can use it. 
 
-• If you cannot get out the maze when the time is up, the game is over and you need to show high score. In this project,  you must  do  all  minimum  criteria.  In  the  end,  your  program  must  be  work without any errors.
+• If you cannot get out the maze when the time is up, the game is over and you need to show high score. 
+
+In this project,  you must  do  all  minimum  criteria.  In  the  end,  your  program  must  be  work without any errors.
 
 # This project has made by Busra Celik.
